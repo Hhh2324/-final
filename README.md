@@ -10,4 +10,4 @@
 |seaborn|0.12.0|  
 |matplotlib|3.6.1|  
 
-- 复现步骤：运行Titanic_final.py
+- 复现步骤：train.xlsx和test.xlsx是原始数据，Titanic_final.py中可复现代码
